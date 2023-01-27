@@ -20,7 +20,7 @@
  
 <div id=stats>
  
-<img src="https://github-readme-stats.vercel.app/api?username=andersonlimacrv&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=andersonlimacrv&show_icons=true&theme=radical" />
 </picture>
 
  
