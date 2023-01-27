@@ -21,8 +21,8 @@
 <div id=stats>
  
 <img src="https://github-readme-stats.vercel.app/api?username=andersonlimacrv&show_icons=true&theme=radical" />
-</picture>
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=andersonlimacrv&theme=radical&hide_border=false" />
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=andersonlimacrv&theme=radical&hide_border=false)
  
