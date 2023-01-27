@@ -13,9 +13,12 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonlimacrv&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
  </div>
-
+<div id=titlestats align="center">
+ 
 # 📊 GitHub Stats:
-<div id=stats>
+ </div>
+ 
+<div id=stats style="width:80%">
  
 ![](https://github-readme-stats.vercel.app/api?username=andersonlimacrv&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=andersonlimacrv&theme=radical&hide_border=false)
