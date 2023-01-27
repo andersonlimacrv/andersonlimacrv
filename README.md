@@ -1,6 +1,9 @@
+<div id=hello align=center>
+ 
  ## Hi there <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1fae1/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1fae1/512.gif" alt="🫡" width="60" height="60">
  # Welcome to my Github profile!
  
+ </div>
   My name is Anderson Carvalho, I'm a software developer with knowledge in programming logic, HTML, CSS, JavaScript and Django. I'm very excited to share my work in my personal repository and want to contribute to the growth of the developer community.<br><br>During my experience period, I had the opportunity to develop web projects at the company CESS, where I currently work, in addition to several other personal projects, which I try to post frequently here on GitHub. I have experience building web apps using Python and Django. 
     I created creative and responsive user interfaces using HTML, CSS and JavaScript. I also have knowledge in backend languages, such as Java and C++, in addition to currently focusing my studies on python language, database design, data security and integration with APIs.<br><br>In my repository, you will find my personal projects, basic and intermediate code layout, acquired knowledge and tests of projects and tools that I created. I'm always open to learning new things and developing my software development skills.<br><br>If you have suggestions for code, architecture, design, please, do not hesitate to correct, I mean, contribute.
     
