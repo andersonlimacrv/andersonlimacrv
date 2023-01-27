@@ -24,7 +24,6 @@
 <div id=stats align="center">
  
 <img width="42%" src="https://github-readme-stats.vercel.app/api?username=andersonlimacrv&show_icons=true&theme=radical" />
-
 <img width="44.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=andersonlimacrv&theme=radical&hide_border=false" />
  
 </div>
@@ -37,7 +36,6 @@
 
  </div>
  <div align="center">
- 
 ### 😂 
 ### Thank's for your time!
  
