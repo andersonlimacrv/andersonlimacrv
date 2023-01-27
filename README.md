@@ -26,10 +26,9 @@
  
 </div>
 
-<div id =quote>
+<div id =quote align="center">
  
 ### ✍️ Dev Quote:
-
  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
