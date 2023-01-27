@@ -28,6 +28,7 @@
  
 ### ✍️ Dev Quote:
 <div id =quote align="end">
+ 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
  </div>
