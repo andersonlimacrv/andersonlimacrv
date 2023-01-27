@@ -27,6 +27,7 @@
 </div>
 
 <div id =quote>
+ 
 ### ✍️ Dev Quote:
 
  
