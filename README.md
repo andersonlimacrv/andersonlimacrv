@@ -36,8 +36,8 @@
 
  </div>
  <div align="center">
-### 😂 
-### Thank's for your time!
+
+### 😂 Thank's for your time!
  
  </div>
 <div id="header" align="center">
