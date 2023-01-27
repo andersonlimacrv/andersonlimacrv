@@ -25,7 +25,7 @@
 <img width="44.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=andersonlimacrv&theme=radical&hide_border=false" />
  
 </div>
-<div id =quote "style :inline_block">
+<div id =quote align="end">
  
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
