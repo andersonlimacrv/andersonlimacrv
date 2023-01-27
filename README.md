@@ -20,11 +20,9 @@
  
 <div id=stats>
  
-<img src="https://github-readme-stats.vercel.app/api?username=andersonlimacrv&show_icons=true&theme=radical" />
+<img width="42%" src="https://github-readme-stats.vercel.app/api?username=andersonlimacrv&show_icons=true&theme=radical" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=andersonlimacrv&theme=radical&hide_border=false" />
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=andersonlimacrv&theme=radical&hide_border=false)
+<img width="50%"src="https://github-readme-streak-stats.herokuapp.com/?user=andersonlimacrv&theme=radical&hide_border=false" />
  
 </div>
 
