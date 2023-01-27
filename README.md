@@ -11,7 +11,7 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=andersonlimacrvshow_icons&theme=radical&hide_border=false&include_all_commits=true&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=andersonlimacrv&theme=radical&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=andersonlimacrv&show_icons&theme=radical&hide_border=false&include_all_commits=true&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=andersonlimacrv&theme=radical&hide_border=false)
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
