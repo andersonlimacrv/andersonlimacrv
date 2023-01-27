@@ -25,9 +25,10 @@
 <img width="44.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=andersonlimacrv&theme=radical&hide_border=false" />
  
 </div>
- 
+
+<div id =quote>
 ### ✍️ Dev Quote:
-<div id =quote align="end">
+
  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
