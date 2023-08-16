@@ -1,9 +1,3 @@
-<div>
-<a href="https://github.com/andersonlimacrv">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?andersonlimacrv&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?andersonlimacrv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
 <div id=hello align=center>
  
  ## Hi there <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1fae1/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1fae1/512.gif" alt="🫡" width="60" height="60">
