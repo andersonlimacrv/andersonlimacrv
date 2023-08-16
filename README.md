@@ -6,11 +6,12 @@
 - ❤️ Dedicated to optimizing the blend of high-performance architecture and immersive and creative UI/UX.
 - ⚡ Besides programming, I enjoy tinkering with electronics, IoT stuff, and software development in general.
 - 🚀 Feel free to explore my website and get a glimpse of the digital creations I've brought to life➡️ [allcode.app](https://www.allcode.app).
+
  
 <div id ="statuss" align="left">
-<img width="62%" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andersonlimacrv&theme=gotham">
+<img width="62%" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andersonlimacrv&theme=gotham&bg_color=00ff00">
 <img width="31%" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=andersonlimacrv&theme=gotham">
-<img width="72%" align=center src="https://github-readme-activity-graph.vercel.app/graph?username=andersonlimacrv&theme=gotham&hide_border=true"/>
+<img width="72%" align=center src="https://github-readme-activity-graph.vercel.app/graph?username=andersonlimacrv&bg_color=0C1014&color=FFF&line=00acac&point=58EDE1&area=true&area_color=00acac&hide_border=true">
 <img width="21%" align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonlimacrv&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&langs_count=10&"/>
 </div>
  <div align=left>
