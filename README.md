@@ -108,7 +108,7 @@
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" align=center/>
 
  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=plastic&logo=Facebook&logoColor=white)](https://facebook.com/andersonlimacrv) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white)](https://instagram.com/andersonlimacrv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/andersonlimacrv) [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=plastic&logo=whatsapp&logoColor=white)](https://wa.me/5553981004874) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:andersonlimacrv@gmail.com)
-</div>
-
 
 <img align="center" src="https://profile-counter.glitch.me/{andersonlimacrv}/count.svg" />
+</div>
+
