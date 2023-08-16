@@ -8,12 +8,12 @@
 - 🚀 Feel free to explore my website and get a glimpse of the digital creations I've brought to life➡️ [allcode.app](https://www.allcode.app).
  
 <div id ="statuss" align="left">
-<img width="61%" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andersonlimacrv&theme=gotham">
-<img width="30%" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=andersonlimacrv&theme=gotham">
+<img width="62%" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andersonlimacrv&theme=gotham">
+<img width="31%" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=andersonlimacrv&theme=gotham">
+<img width="72%" align=center src="https://github-readme-activity-graph.vercel.app/graph?username=andersonlimacrv&theme=gotham&hide_border=true"/>
+<img width="21%" align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonlimacrv&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&langs_count=10&"/>
 </div>
  <div align=center>
-   <img width="33%" align=left src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonlimacrv&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&langs_count=10&layout=donut"/>
- 
   <table align=center>
       <tr>
           <td align=center>
