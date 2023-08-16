@@ -1,6 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:00ACAC,100:a82da8&height=190&section=header&text=Anderson%20Carvalho&stroke=ACACAC&fontSize=50&animation=fadeIn&fontAlignY=20&desc=Full-stack%20Software%20Engineer.&descAlignY=51&descAlign=62)
-
-**Hi there <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1fae1/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1fae1/512.gif" alt="🫡" width="50" height="50"> Welcome to my Github profile!**
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:00ACAC,100:a82da8&height=190&section=header&text=Anderson%20Carvalho&stroke=ACACAC&fontSize=50&animation=fadeIn&fontAlignY=20&desc=Full-stack%20Software%20Engineer.&descAlignY=51&descAlign=62) <br>
+**Hi there <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1fae1/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1fae1/512.gif" alt="🫡" width="30" height="30"> Welcome to my Github profile!**
  - 🌐 I'm Anderson, a Fullstack developer from Pelotas <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/2560px-Flag_of_Brazil.svg.png" width="20" height="15" alt="Brazil Flag">, where I currently live.
  - 🔭 I'm currently working at [@cess](https://www.cess.ind.br).
 - 📖 Learning more about **everything that I can**.
@@ -10,7 +9,7 @@
  
 <div id ="statuss" align="left">
 <img width="60%" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andersonlimacrv&theme=gotham">
-<img width="30%" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=andersonlimacrv&theme=gotham">
+<img width="29%" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=andersonlimacrv&theme=gotham">
 </div>
  <div align=left>
    <img width="25%" align=left src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonlimacrv&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&langs_count=10"/>
@@ -83,13 +82,13 @@
 <br>
  
 <div align=center>
+ <br>
 <p style="font-size=16px"> 😂 Thank's for your time!</p>
 
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" align=center/>
 
  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=plastic&logo=Facebook&logoColor=white)](https://facebook.com/andersonlimacrv) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white)](https://instagram.com/andersonlimacrv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/andersonlimacrv) [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=plastic&logo=whatsapp&logoColor=white)](https://wa.me/5553981004874) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:andersonlimacrv@gmail.com)
 </div>
-
 
 
 
