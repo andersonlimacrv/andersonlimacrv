@@ -9,11 +9,11 @@
 - 🚀 Feel free to explore my website and get a glimpse of the digital creations I've brought to life➡️ [allcode.app](https://www.allcode.app).
  
 <div id ="statuss" align="left">
-<img width="65%" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andersonlimacrv&theme=radical">
-<img width="32%" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=andersonlimacrv&theme=radical">
+<img width="65%" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andersonlimacrv&theme=gotham">
+<img width="30%" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=andersonlimacrv&theme=gotham">
 </div>
  <div align=left>
-   <img width="35%" align=left src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonlimacrv&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=12&bg_color=0,00acac,a82da8,141321"/>
+   <img width="32%" align=left src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonlimacrv&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&langs_count=10&bg_color=141321"/>
  </div>
   <table align=center>
       <tr>
@@ -32,9 +32,9 @@
                   <b>Front-End</b>
               </td>
               <td>
-                  <img src="https://img.shields.io/badge/css3-000?style=plastic&logo=css3&logoColor=white">
-                  <img src="https://img.shields.io/badge/html5-000?style=plastic&logo=html5&logoColor=white">
-                  <img src="https://img.shields.io/badge/bootstrap-000?style=plastic&logo=bootstrap&logoColor=white">
+                  <img src="https://img.shields.io/badge/css3-000?style=plastic&logo=css3&">
+                  <img src="https://img.shields.io/badge/html5-000?style=plastic&logo=html5&">
+                  <img src="https://img.shields.io/badge/bootstrap-000?style=plastic&logo=bootstrap&">
                   <img src="https://img.shields.io/badge/react-000?style=plastic&logo=react&logoColor=%2361DAFB">
               </td>
           </tr>
@@ -43,12 +43,12 @@
                   <b>Back-End</b>
               </td>
               <td>
-                  <img src="https://img.shields.io/badge/django-000?style=plastic&logo=django&logoColor=white">
+                  <img src="https://img.shields.io/badge/django-000?style=plastic&logo=django">
                   <img src="https://img.shields.io/badge/DJANGO-REST-000?style=plastic&logo=django&logoColor=white&color=494c4e&labelColor=000">
-                  <img src="https://img.shields.io/badge/node.js-000?style=plastic&logo=node.js&logoColor=white">
-                  <img src="https://img.shields.io/badge/mysql-000?style=plastic&logo=mysql&logoColor=white">
-                  <img src="https://img.shields.io/badge/postgres-000?style=plastic&logo=postgresql&logoColor=white">
-                  <img src="https://img.shields.io/badge/MongoDB-000?style=plastic&logo=mongodb&logoColor=white">
+                  <img src="https://img.shields.io/badge/-Node-black?logo=nodedotjs&style=plastic">
+                  <img src="https://img.shields.io/badge/mysql-000?style=plastic&logo=mysql&">
+                  <img src="https://img.shields.io/badge/postgres-000?style=plastic&logo=postgresql&">
+                  <img src="https://img.shields.io/badge/MongoDB-000?style=plastic&logo=mongodb&">
               </td>
           </tr>
           <tr>
@@ -56,8 +56,8 @@
                   <b>UI/UX</b>
               </td>
               <td>
-                  <img src="https://img.shields.io/badge/Canva-000?style=plastic&logo=Canva&logoColor=white">
-                  <img src="https://img.shields.io/badge/figma-000?style=plastic&logo=figma&logoColor=white">
+                  <img src="https://img.shields.io/badge/Canva-000?style=plastic&logo=Canva&">
+                  <img src="https://img.shields.io/badge/figma-000?style=plastic&logo=figma&">
               </td>
           </tr>
           <tr>
@@ -65,7 +65,7 @@
                   <b>IoT</b>
               </td>
               <td>
-                  <img src="https://img.shields.io/badge/-Arduino-000?style=plastic&logo=Arduino&logoColor=white">
+                  <img src="https://img.shields.io/badge/-Arduino-000?style=plastic&logo=Arduino&">
               </td>
           </tr>
           <tr>
@@ -73,7 +73,7 @@
                   <b>Tools</b>
               </td>
               <td>
-                  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white">
+                  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&">
               </td>
           </tr>
    <br>
