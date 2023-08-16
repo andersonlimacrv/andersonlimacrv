@@ -8,7 +8,7 @@
 - 🚀 Feel free to explore my website and get a glimpse of the digital creations I've brought to life➡️ [allcode.app](https://www.allcode.app).
  
 <div id ="statuss" align="left">
-<img width="60%" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andersonlimacrv&theme=gotham">
+<img width="61%" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andersonlimacrv&theme=gotham">
 <img width="30%" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=andersonlimacrv&theme=gotham">
 </div>
  <div align=center>
