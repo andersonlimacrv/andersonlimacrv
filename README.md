@@ -8,12 +8,12 @@
 - 🚀 Feel free to explore my website and get a glimpse of the digital creations I've brought to life➡️ [allcode.app](https://www.allcode.app).
  
 <div id ="statuss" align="left">
-<img width="59%" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andersonlimacrv&theme=gotham">
-<img width="29%" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=andersonlimacrv&theme=gotham">
+<img width="60%" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andersonlimacrv&theme=gotham">
+<img width="30%" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=andersonlimacrv&theme=gotham">
 </div>
- <div align=left>
-   <img width="25%" align=left src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonlimacrv&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&langs_count=10"/>
- </div>
+ <div align=center>
+   <img width="32%" align=left src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonlimacrv&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&langs_count=10&layout=donut"/>
+ 
   <table align=center>
       <tr>
           <td align=center>
@@ -54,6 +54,13 @@
                   <img src="https://img.shields.io/badge/django-000?style=plastic&logo=django">
                   <img src="https://img.shields.io/badge/DJANGO-REST-000?style=plastic&logo=django&logoColor=white&color=494c4e&labelColor=000">
                   <img src="https://img.shields.io/badge/-Node-black?logo=nodedotjs&style=plastic">
+              </td>
+          </tr>
+               <tr>
+              <td align=center>
+                  <b>Database</b>
+              </td>
+              <td>
                   <img src="https://img.shields.io/badge/mysql-000?style=plastic&logo=mysql&">
                   <img src="https://img.shields.io/badge/postgres-000?style=plastic&logo=postgresql&">
                   <img src="https://img.shields.io/badge/MongoDB-000?style=plastic&logo=mongodb&">
@@ -75,10 +82,9 @@
                   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&">
               </td>
           </tr>
-   <br>
   </table>
+
  </div>
- 
 <br>
  
 <div align=center>
