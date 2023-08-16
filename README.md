@@ -9,11 +9,11 @@
 - 🚀 Feel free to explore my website and get a glimpse of the digital creations I've brought to life➡️ [allcode.app](https://www.allcode.app).
  
 <div id ="statuss" align="left">
-<img width="65%" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andersonlimacrv&theme=gotham">
+<img width="60%" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andersonlimacrv&theme=gotham">
 <img width="30%" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=andersonlimacrv&theme=gotham">
 </div>
  <div align=left>
-   <img width="32%" align=left src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonlimacrv&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&langs_count=10&bg_color=141321"/>
+   <img width="25%" align=left src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonlimacrv&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&langs_count=10"/>
  </div>
   <table align=center>
       <tr>
@@ -90,11 +90,6 @@
  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=plastic&logo=Facebook&logoColor=white)](https://facebook.com/andersonlimacrv) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white)](https://instagram.com/andersonlimacrv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/andersonlimacrv) [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=plastic&logo=whatsapp&logoColor=white)](https://wa.me/5553981004874) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:andersonlimacrv@gmail.com)
 </div>
 
-
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=andersonlimacrv&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV -->
-
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonlimacrv&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,00acac,4dfcff,a82da8&theme=graywhite" />
- 
 
 
 
