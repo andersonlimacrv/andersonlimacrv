@@ -12,7 +12,7 @@
 <img width="30%" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=andersonlimacrv&theme=gotham">
 </div>
  <div align=center>
-   <img width="32%" align=left src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonlimacrv&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&langs_count=10&layout=donut"/>
+   <img width="33%" align=left src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonlimacrv&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&langs_count=10&layout=donut"/>
  
   <table align=center>
       <tr>
