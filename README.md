@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:00ACAC,100:a82da8&height=190&section=header&text=Anderson%20Carvalho&stroke=ACACAC&fontSize=50&animation=fadeIn&fontAlignY=20&desc=Full-stack%20Software%20Engineer.&descAlignY=51&descAlign=62) <br>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:00ACAC,100:a82da8&height=190&section=header&text=Anderson%20Carvalho&stroke=ACACAC&fontSize=50&fontColor=22272E&animation=fadeIn&fontAlignY=20&desc=Full-stack%20Software%20Engineer.&descAlignY=51&descAlign=62) <br
 **Hi there <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1fae1/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1fae1/512.gif" alt="🫡" width="30" height="30"> Welcome to my Github profile!**
  - 🌐 I'm Anderson, a Fullstack developer from Pelotas <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/2560px-Flag_of_Brazil.svg.png" width="20" height="15" alt="Brazil Flag">, where I currently live.
  - 🔭 I'm currently working at [@cess](https://www.cess.ind.br).
@@ -13,82 +13,95 @@
 <img width="72%" align=center src="https://github-readme-activity-graph.vercel.app/graph?username=andersonlimacrv&theme=gotham&hide_border=true"/>
 <img width="21%" align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonlimacrv&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&langs_count=10&"/>
 </div>
- <div align=center>
-  <table align=center>
+ <div align=left>
+  <table>
       <tr>
           <td align=center>
-              <b>Languages<b>
+              Languages
           </td>
-          <td>
+          <td align=center>
               <img src="https://img.shields.io/badge/python-141321?style=plastic&logo=python&logoColor=ffdd54">
               <img src="https://img.shields.io/badge/javascript-000?style=plastic&logo=javascript&logoColor=%23F7DF1E">
               <img src="https://img.shields.io/badge/TypeScript-000?style=plastic&logo=typescript&logoColor=white">
               <img src="https://img.shields.io/badge/c++-000?style=plastic&logo=c%2B%2B&logoColor=white">
-              <img src="https://img.shields.io/badge/Java-000?style=plastic&logo=openjdk&logoColor=white">
+              <img src="https://img.shields.io/badge/Java-000?style=plastic&logo=openjdk&logoColor=324E61">
           </td>
           <tr>
               <td align=center>
-                  <b>Front-End</b>
+                  Front-End
               </td>
-              <td>
+              <td align=center>
                   <img src="https://img.shields.io/badge/css3-000?style=plastic&logo=css3&">
                   <img src="https://img.shields.io/badge/html5-000?style=plastic&logo=html5&">
                   <img src="https://img.shields.io/badge/bootstrap-000?style=plastic&logo=bootstrap&">
-                  <img src="https://img.shields.io/badge/react-000?style=plastic&logo=react&logoColor=%2361DAFB">
+                  <img src="https://img.shields.io/badge/React-000?style=plastic&logo=react&logoColor=%2361DAFB">
+                  <img src="https://img.shields.io/badge/Tailwind_CSS-000?style=plastic&logo=tailwind-css">
+                  <img src="https://img.shields.io/badge/Next.js-000?style=plastic&logo=next.js">
+                  <img src="https://img.shields.io/badge/react_native-000?style=plastic&logo=react&logoColor=%2361DAFB">
+               <img src="https://img.shields.io/badge/chart.js-000?style=plastic&logo=chart.js&logoColor=F5788D">
+              </td>
+          </tr>
+     <tr>
+              <td align=center>
+                  Back-End
+              </td>
+              <td align=center>
+                  <img src="https://img.shields.io/badge/django-000?style=plastic&logo=django&logoColor=082D1F">
+                  <img src="https://img.shields.io/badge/django-Rest-000?style=plastic&logo=django&logoColor=white&color=A1535B&labelColor=000">
+                  <img src="https://img.shields.io/badge/Django_ORM-000?style=plastic&logo=django&logoColor=white">
+                  <img src="https://img.shields.io/badge/-Node-black?logo=nodedotjs&style=plastic">
+                  <img src="https://img.shields.io/badge/NestJS-000?style=plastic&logo=NestJS&logoColor=E0234D">
+                  <img src ="https://img.shields.io/badge/Express.js-000?style=plastic&logo=Express">
+                  <img src="https://img.shields.io/badge/Prisma-000?style=plastic&logo=Prisma&logoColor=3982CE">
+                  <img src="https://img.shields.io/badge/-GraphQL-000?style=plastic&logo=graphql&logoColor=E10098")>
+                  <img src="https://img.shields.io/badge/Heroku-000?style=plastic&logo=heroku&logoColor=430098">
+                  <img src="https://img.shields.io/badge/Amazon_AWS-000?style=plastic&logo=amazon-aws&logoColor=9A5C0A">
+              </td>
+          </tr>
+       <tr>
+              <td align=center>
+                  Tools
+              </td>
+              <td align=center>
+                  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&">
+                  <img src="https://img.shields.io/badge/GIT-000?style=plastic&logo=git&logoColor=E44C30">
+                  <img src="https://img.shields.io/badge/Codepen-000000?style=plastic&logo=codepen&logoColor=white">
+                  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-000?style=plastic&logo=visual-studio-code&logoColor=0078d7">
+              </td>
+          </tr>
+    <tr>
+              <td align=center>
+                  Database
+              </td>
+              <td align=center>
+                  <img src="https://img.shields.io/badge/mysql-000?style=plastic&logo=mysql&">
+                  <img src="https://img.shields.io/badge/postgres-000?style=plastic&logo=postgresql&">
+                  <img src="https://img.shields.io/badge/MongoDB-000?style=plastic&logo=mongodb&">
+                  <img src="https://img.shields.io/badge/SQLite-000?style=plastic&logo=sqlite&logoColor=07405E">
               </td>
           </tr>
                 <tr>
               <td align=center>
-                  <b>UI/UX</b>
+                  UI/UX
               </td>
-              <td>
+              <td align=center>
                   <img src="https://img.shields.io/badge/Canva-000?style=plastic&logo=Canva&">
                   <img src="https://img.shields.io/badge/figma-000?style=plastic&logo=figma&">
+                  <img src="https://img.shields.io/badge/spline-000?style=plastic&logo=spring&logoColor=9A3398"
               </td>
-          </tr>
+                </tr>
           <tr>
               <td align=center>
-                  <b>Back-End</b>
+                  IoT
               </td>
-              <td>
-                  <img src="https://img.shields.io/badge/django-000?style=plastic&logo=django">
-                  <img src="https://img.shields.io/badge/DJANGO-REST-000?style=plastic&logo=django&logoColor=white&color=494c4e&labelColor=000">
-                  <img src="https://img.shields.io/badge/-Node-black?logo=nodedotjs&style=plastic">
-              </td>
-          </tr>
-               <tr>
               <td align=center>
-                  <b>Database</b>
-              </td>
-              <td>
-                  <img src="https://img.shields.io/badge/mysql-000?style=plastic&logo=mysql&">
-                  <img src="https://img.shields.io/badge/postgres-000?style=plastic&logo=postgresql&">
-                  <img src="https://img.shields.io/badge/MongoDB-000?style=plastic&logo=mongodb&">
-              </td>
-          </tr>
-          <tr>
-              <td align=center>
-                  <b>IoT</b>
-              </td>
-              <td>
-                  <img src="https://img.shields.io/badge/-Arduino-000?style=plastic&logo=Arduino&">
-              </td>
-          </tr>
-          <tr>
-              <td align=center>
-                  <b>Tools</b>
-              </td>
-              <td>
-                  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&">
+                  <img src="https://img.shields.io/badge/-Arduino-000?style=plastic&logo=Arduino&logoColor=00979D">
+                   <img src="https://img.shields.io/badge/MQTT-000?style=plastic&logo=git&logoColor=E44C30">
               </td>
           </tr>
   </table>
-
  </div>
-<br>
- 
 <div align=center>
- <br>
 <p style="font-size=16px"> 😂 Thank's for your time!</p>
 
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" align=center/>
