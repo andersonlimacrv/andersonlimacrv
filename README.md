@@ -37,6 +37,15 @@
                   <img src="https://img.shields.io/badge/react-000?style=plastic&logo=react&logoColor=%2361DAFB">
               </td>
           </tr>
+                <tr>
+              <td align=center>
+                  <b>UI/UX</b>
+              </td>
+              <td>
+                  <img src="https://img.shields.io/badge/Canva-000?style=plastic&logo=Canva&">
+                  <img src="https://img.shields.io/badge/figma-000?style=plastic&logo=figma&">
+              </td>
+          </tr>
           <tr>
               <td align=center>
                   <b>Back-End</b>
@@ -48,15 +57,6 @@
                   <img src="https://img.shields.io/badge/mysql-000?style=plastic&logo=mysql&">
                   <img src="https://img.shields.io/badge/postgres-000?style=plastic&logo=postgresql&">
                   <img src="https://img.shields.io/badge/MongoDB-000?style=plastic&logo=mongodb&">
-              </td>
-          </tr>
-          <tr>
-              <td align=center>
-                  <b>UI/UX</b>
-              </td>
-              <td>
-                  <img src="https://img.shields.io/badge/Canva-000?style=plastic&logo=Canva&">
-                  <img src="https://img.shields.io/badge/figma-000?style=plastic&logo=figma&">
               </td>
           </tr>
           <tr>
