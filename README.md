@@ -88,7 +88,7 @@
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00ACAC,100:a82da8&height=150&%section=footer&text=Anderson%20Carvalho&stroke=ACACAC&fontSize=60&animation=fadeIn&fontAlignY=20&desc=Full-stack%20Software%20Engineer.&descAlignY=51&descAlign=62)
-<div align=left>
+<div align=center>
  
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=plastic&logo=Facebook&logoColor=white)](https://facebook.com/andersonlimacrv) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white)](https://instagram.com/andersonlimacrv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/andersonlimacrv) [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=plastic&logo=whatsapp&logoColor=white)](https://wa.me/5553981004874) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:andersonlimacrv@gmail.com)
 
