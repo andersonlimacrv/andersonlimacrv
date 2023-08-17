@@ -20,7 +20,7 @@
   <table>
       <tr>
           <td align=center>
-              Languages
+              <b>Languages</b>
           </td>
           <td align=center>
               <img src="https://img.shields.io/badge/python-141321?style=plastic&logo=python&logoColor=ffdd54">
@@ -31,7 +31,7 @@
           </td>
           <tr>
               <td align=center>
-                  Front-End
+               <b>Front-End</b>
               </td>
               <td align=center>
                   <img src="https://img.shields.io/badge/css3-000?style=plastic&logo=css3&">
@@ -46,11 +46,11 @@
           </tr>
      <tr>
               <td align=center>
-                  Back-End
+                  <b>Back-End</b>
               </td>
               <td align=center>
                   <img src="https://img.shields.io/badge/django-000?style=plastic&logo=django&logoColor=082D1F">
-                  <img src="https://img.shields.io/badge/django-Rest-000?style=plastic&logo=django&logoColor=white&color=A1535B&labelColor=000">
+                  <img src="https://img.shields.io/badge/Django-REST-000?style=plastic&logo=django&logoColor=white&color=A1535B&labelColor=000">
                   <img src="https://img.shields.io/badge/Django_ORM-000?style=plastic&logo=django&logoColor=white">
                   <img src="https://img.shields.io/badge/-Node-black?logo=nodedotjs&style=plastic">
                   <img src="https://img.shields.io/badge/NestJS-000?style=plastic&logo=NestJS&logoColor=E0234D">
@@ -63,7 +63,7 @@
           </tr>
        <tr>
               <td align=center>
-                  Tools
+                  <b>Tools</b>
               </td>
               <td align=center>
                   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&">
@@ -75,7 +75,7 @@
           </tr>
     <tr>
               <td align=center>
-                  Database
+                  <b>Database</b>
               </td>
               <td align=center>
                   <img src="https://img.shields.io/badge/mysql-000?style=plastic&logo=mysql&">
@@ -86,7 +86,7 @@
           </tr>
                 <tr>
               <td align=center>
-                  UI/UX
+                  <b>UI/UX</b>
               </td>
               <td align=center>
                   <img src="https://img.shields.io/badge/Canva-000?style=plastic&logo=Canva&">
@@ -96,7 +96,7 @@
                 </tr>
           <tr>
               <td align=center>
-                  IoT
+                  <b>IoT</b>
               </td>
               <td align=center>
                   <img src="https://img.shields.io/badge/-Arduino-000?style=plastic&logo=Arduino&logoColor=00979D">
