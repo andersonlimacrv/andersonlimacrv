@@ -72,6 +72,7 @@
                   <img src="https://img.shields.io/badge/Codepen-000000?style=plastic&logo=codepen&logoColor=white">
                   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-000?style=plastic&logo=visual-studio-code&logoColor=0078d7">
                   <img src="https://img.shields.io/badge/Notepad++-000?style=plastic&logo=notepad%2B%2B&logoColor=90E59A">
+                  <img src="https://img.shields.io/badge/Miro-000?style=plastic&logo=Miro&logoColor=388CE8">
               </td>
           </tr>
     <tr>
