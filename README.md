@@ -42,7 +42,7 @@
                   <img src="https://img.shields.io/badge/jQuery-000?style=plastic&logo=jQuery&logoColor=0769AD">
                   <img src="https://img.shields.io/badge/bootstrap-000?style=plastic&logo=bootstrap&">
                   <img src="https://img.shields.io/badge/React_native-000?style=plastic&logo=react&logoColor=%2361DAFB">
-                  <img src="https://img.shields.io/badge/Chart.Js-000?style=plastic&logo=chart.js&logoColor=F5788D">
+                  <img src="https://img.shields.io/badge/ChartJs-000?style=plastic&logo=chart.js&logoColor=F5788D">
               </td>
           </tr>
      <tr>
