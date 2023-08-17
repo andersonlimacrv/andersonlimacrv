@@ -37,8 +37,8 @@
                   <img src="https://img.shields.io/badge/React-000?style=plastic&logo=react&logoColor=%2361DAFB">
                   <img src="https://img.shields.io/badge/TailwindCSS-000?style=plastic&logo=tailwind-css">
                   <img src="https://img.shields.io/badge/Next.js-000?style=plastic&logo=next.js">
-                  <img src="https://img.shields.io/badge/css3-000?style=plastic&logo=css3&logoColor=214CE4">
-                  <img src="https://img.shields.io/badge/HTML5-000?style=plastic&logo=html5">
+                  <img src="https://img.shields.io/badge/css-000?style=plastic&logo=css3&logoColor=214CE4">
+                  <img src="https://img.shields.io/badge/HTML-000?style=plastic&logo=html5">
                   <img src="https://img.shields.io/badge/jQuery-000?style=plastic&logo=jQuery&logoColor=0769AD">
                   <img src="https://img.shields.io/badge/bootstrap-000?style=plastic&logo=bootstrap&">
                   <img src="https://img.shields.io/badge/react_native-000?style=plastic&logo=react&logoColor=%2361DAFB">
