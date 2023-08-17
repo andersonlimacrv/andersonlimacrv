@@ -20,7 +20,7 @@
   <table>
       <tr>
           <td align=center>
-              Languages<
+              Languages
           </td>
           <td align=center>
               <img src="https://img.shields.io/badge/python-141321?style=plastic&logo=python&logoColor=ffdd54">
