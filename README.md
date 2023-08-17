@@ -5,14 +5,16 @@
 - 📖 Learning more about **everything that I can**.
 - ❤️ Dedicated to optimizing the blend of high-performance architecture and immersive and creative UI/UX.
 - ⚡ Besides programming, I enjoy tinkering with electronics, IoT stuff, and software development in general.
-- 🚀 Feel free to explore my website and get a glimpse of the digital creations I've brought to life➡️ [allcode.app](https://www.allcode.app).
+- 🚀 Feel free to explore my website and get a glimpse of the digital creations I've brought to life ➡️ [allcode.app](https://www.allcode.app).
 
  
 <div id ="statuss" align="left">
-<img width="62%" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andersonlimacrv&theme=gotham&">
+<img width="62%" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andersonlimacrv&theme=gotham">
 <img width="31%" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=andersonlimacrv&theme=gotham">
-<img width="72%" align=center src="https://github-readme-activity-graph.vercel.app/graph?username=andersonlimacrv&bg_color=0C1014&color=FFF&line=00acac&point=58EDE1&area=true&area_color=00acac&hide_border=true">
-<img width="21%" align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonlimacrv&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&langs_count=10&"/>
+<img width="72%" align=center src="https://github-readme-activity-graph.vercel.app/graph?username=andersonlimacrv&theme=gotham&area=true&hide_border=true">
+<img width="21%" align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonlimacrv&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&langs_count=10">
+
+
 </div>
  <div align=left>
   <table>
@@ -68,6 +70,7 @@
                   <img src="https://img.shields.io/badge/GIT-000?style=plastic&logo=git&logoColor=E44C30">
                   <img src="https://img.shields.io/badge/Codepen-000000?style=plastic&logo=codepen&logoColor=white">
                   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-000?style=plastic&logo=visual-studio-code&logoColor=0078d7">
+                  <img src="https://img.shields.io/badge/Notepad++-000?style=plastic&logo=notepad%2B%2B&logoColor=90E59A">
               </td>
           </tr>
     <tr>
@@ -97,7 +100,7 @@
               </td>
               <td align=center>
                   <img src="https://img.shields.io/badge/-Arduino-000?style=plastic&logo=Arduino&logoColor=00979D">
-                   <img src="https://img.shields.io/badge/MQTT-000?style=plastic&logo=git&logoColor=E44C30">
+                  <img src="https://img.shields.io/badge/MQTT-000?style=plastic&logo=MQTT&logoColor=660066">
               </td>
           </tr>
   </table>
