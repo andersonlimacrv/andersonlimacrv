@@ -34,14 +34,15 @@
                <b>Front-End</b>
               </td>
               <td align=center>
-                  <img src="https://img.shields.io/badge/css3-000?style=plastic&logo=css3&">
-                  <img src="https://img.shields.io/badge/html5-000?style=plastic&logo=html5&">
-                  <img src="https://img.shields.io/badge/bootstrap-000?style=plastic&logo=bootstrap&">
                   <img src="https://img.shields.io/badge/React-000?style=plastic&logo=react&logoColor=%2361DAFB">
                   <img src="https://img.shields.io/badge/Tailwind_CSS-000?style=plastic&logo=tailwind-css">
                   <img src="https://img.shields.io/badge/Next.js-000?style=plastic&logo=next.js">
+                  <img src="https://img.shields.io/badge/css3-000?style=plastic&logo=css3&logoColor=214CE4">
+                  <img src="https://img.shields.io/badge/HTML5-000?style=plastic&logo=html5">
+                  <img src="https://img.shields.io/badge/jQuery-000?style=plastic&logo=jQuery&logoColor=0769AD">
+                  <img src="https://img.shields.io/badge/bootstrap-000?style=plastic&logo=bootstrap&">
                   <img src="https://img.shields.io/badge/react_native-000?style=plastic&logo=react&logoColor=%2361DAFB">
-               <img src="https://img.shields.io/badge/chart.js-000?style=plastic&logo=chart.js&logoColor=F5788D">
+                  <img src="https://img.shields.io/badge/chart.js-000?style=plastic&logo=chart.js&logoColor=F5788D">
               </td>
           </tr>
      <tr>
@@ -52,7 +53,7 @@
                   <img src="https://img.shields.io/badge/django-000?style=plastic&logo=django&logoColor=082D1F">
                   <img src="https://img.shields.io/badge/Django-REST-000?style=plastic&logo=django&logoColor=white&color=A1535B&labelColor=000">
                   <img src="https://img.shields.io/badge/Django_ORM-000?style=plastic&logo=django&logoColor=white">
-                  <img src="https://img.shields.io/badge/-Node-black?logo=nodedotjs&style=plastic">
+                  <img src="https://img.shields.io/badge/-Node.js-black?logo=nodedotjs&style=plastic">
                   <img src="https://img.shields.io/badge/NestJS-000?style=plastic&logo=NestJS&logoColor=E0234D">
                   <img src ="https://img.shields.io/badge/Express.js-000?style=plastic&logo=Express">
                   <img src="https://img.shields.io/badge/Prisma-000?style=plastic&logo=Prisma&logoColor=3982CE">
