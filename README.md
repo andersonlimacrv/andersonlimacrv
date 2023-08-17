@@ -56,7 +56,7 @@
                   <img src="https://img.shields.io/badge/NestJS-000?style=plastic&logo=NestJS&logoColor=E0234D">
                   <img src ="https://img.shields.io/badge/Express.js-000?style=plastic&logo=Express">
                   <img src="https://img.shields.io/badge/Prisma-000?style=plastic&logo=Prisma&logoColor=3982CE">
-                  <img src="https://img.shields.io/badge/-GraphQL-000?style=plastic&logo=graphql&logoColor=E10098")>
+                  <img src="https://img.shields.io/badge/-GraphQL-000?style=plastic&logo=graphql&logoColor=E10098")><br>
                   <img src="https://img.shields.io/badge/Heroku-000?style=plastic&logo=heroku&logoColor=430098">
                   <img src="https://img.shields.io/badge/Amazon_AWS-000?style=plastic&logo=amazon-aws&logoColor=9A5C0A">
               </td>
