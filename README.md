@@ -12,7 +12,7 @@
 <img width="62.5%" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andersonlimacrv&theme=gotham">
 <img width="31%" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=andersonlimacrv&theme=gotham">
 <img width="72.4%" align=center src="https://github-readme-activity-graph.vercel.app/graph?username=andersonlimacrv&theme=gotham&area=true&hide_border=true">
-<img width="21%" align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonlimacrv&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&langs_count=10">
+<img width="21%" align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonlimacrv&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&langs_count=12">
 
 
 </div>
@@ -42,7 +42,7 @@
                   <img src="https://img.shields.io/badge/jQuery-000?style=plastic&logo=jQuery&logoColor=0769AD">
                   <img src="https://img.shields.io/badge/bootstrap-000?style=plastic&logo=bootstrap&">
                   <img src="https://img.shields.io/badge/React_native-000?style=plastic&logo=react&logoColor=%2361DAFB">
-                  <img src="https://img.shields.io/badge/ChartJs-000?style=plastic&logo=chart.js&logoColor=F5788D">
+                  <img src="https://img.shields.io/badge/ChartJs-000?style=plastic&logo=chart.js&logoColor=F5788D"><br>
                   <img src="https://img.shields.io/badge/GreenSock-000?style=plastic&logo=GreenSock&logoColor=88CE02">
               </td>
           </tr>
