@@ -43,6 +43,7 @@
                   <img src="https://img.shields.io/badge/bootstrap-000?style=plastic&logo=bootstrap&">
                   <img src="https://img.shields.io/badge/React_native-000?style=plastic&logo=react&logoColor=%2361DAFB">
                   <img src="https://img.shields.io/badge/ChartJs-000?style=plastic&logo=chart.js&logoColor=F5788D">
+                  <img src="https://img.shields.io/badge/GreenSock-000?style=plastic&logo=GreenSock&logoColor=88CE02">
               </td>
           </tr>
      <tr>
