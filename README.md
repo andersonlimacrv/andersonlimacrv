@@ -68,7 +68,7 @@
                   Tools
               </td>
               <td align=center>
-                  <img src="https://img.shields.io/badge/Notion-?&logo=notion&">
+                  <img src="https://img.shields.io/badge/Notion-141321?&logo=notion&">
                   <img src="https://img.shields.io/badge/GIT-141321?&logo=git&logoColor=E44C30">
                   <img src="https://img.shields.io/badge/Codepen-141321?&logo=codepen&logoColor=white">
                   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-141321?&logo=visual-studio-code&logoColor=0078d7">
@@ -104,6 +104,7 @@
               <td align=center>
                   <img src="https://img.shields.io/badge/-Arduino-141321?&logo=Arduino&logoColor=00979D">
                   <img src="https://img.shields.io/badge/MQTT-141321?&logo=MQTT&logoColor=660066">
+                  <img src="https://img.shields.io/badge/Raspberry%20Pi-141321?&logo=Raspberry-Pi&logoColor=A22846">
               </td>
           </tr>
   </table>
