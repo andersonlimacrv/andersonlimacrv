@@ -9,10 +9,10 @@
 - 🚀 Feel free to explore my website and get a glimpse of the digital creations I've brought to life ➡️ [allcode.app](https://www.allcode.app).
 
 <div id ="status" align="left">
-<img width="62.5%" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andersonlimacrv&theme=2077&text_color=fff">
-<img width="30%" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=andersonlimacrv&theme=2077">
-<img width="69.8%" align=center src="https://github-readme-activity-graph.vercel.app/graph?username=andersonlimacrv&bg_color=141321&color=eeeeee&line=d41e3b&point=f50029&area=true&hide_border=true">
-<img width="22.7%" align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonlimacrv&bg_color=141321&title_color=d41e3b&text_color=fff&hide_border=true&include_all_commits=true&count_private=true&langs_count=12">
+<img width="66.6%" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andersonlimacrv&theme=2077&hide_border=true">
+<img width="32.7%" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=andersonlimacrv&theme=2077&hide_border=true">
+<img width="74.6%" align=center src="https://github-readme-activity-graph.vercel.app/graph?username=andersonlimacrv&bg_color=141321&color=eeeeee&line=d41e3b&point=f50029&area=true&hide_border=true">
+<img width="24.5%" align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonlimacrv&bg_color=141321&title_color=d41e3b&text_color=fff&hide_border=true&include_all_commits=true&count_private=true&langs_count=12&border_radius=true">
 </div>
 <br>
 <div align=center>
