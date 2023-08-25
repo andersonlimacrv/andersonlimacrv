@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:00ACAC,100:000&height=190&section=header&text=Anderson%20Carvalho&stroke=212121&fontSize=50&fontColor=0C1014&animation=fadeIn&fontAlignY=20&desc=Full-stack%20Software%20Engineer.&descAlignY=51&descAlign=62) <br>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:141321,100:070611&height=190&section=header&text=Anderson%20Carvalho&stroke=f10a31&fontSize=50&fontColor=d41e3b&animation=fadeIn&fontAlignY=20&desc=Full-stack%20Software%20Engineer.&descAlignY=51&descAlign=62) <br>
 **Hi there <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1fae1/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1fae1/512.gif" alt="🫡" width="30" height="30"> Welcome to my Github profile!**
  - 🌐 I'm Anderson, a Fullstack developer from Pelotas <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/2560px-Flag_of_Brazil.svg.png" width="20" height="15" alt="Brazil Flag">, where I currently live.
  - 🔭 I'm currently working at [@cess](https://www.cess.ind.br).
@@ -9,12 +9,11 @@
 
  
 <div id ="statuss" align="left">
-<img width="62.5%" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andersonlimacrv&theme=gotham">
-<img width="31%" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=andersonlimacrv&theme=gotham">
-<img width="72.4%" align=center src="https://github-readme-activity-graph.vercel.app/graph?username=andersonlimacrv&theme=gotham&area=true&hide_border=true">
-<img width="21%" align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonlimacrv&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&langs_count=12">
-
-
+<img width="62.5%" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andersonlimacrv&theme=2077&text_color=fff">
+<img width="30%" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=andersonlimacrv&theme=2077">
+<img width="69.8%" align=center src="https://github-readme-activity-graph.vercel.app/graph?username=andersonlimacrv&bg_color=141321&color=eeeeee&line=d41e3b&point=f50029&area=true&hide_border=true">
+<img width="22.7%" align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonlimacrv&bg_color=141321&title_color=d41e3b&text_color=fff&hide_border=true&include_all_commits=true&count_private=true&langs_count=12">
+ 
 </div>
  <div align=left>
   <table>
