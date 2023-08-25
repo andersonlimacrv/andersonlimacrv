@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:00ACAC,100:a82da8&height=190&section=header&text=Anderson%20Carvalho&stroke=ACACAC&fontSize=50&fontColor=22272E&animation=fadeIn&fontAlignY=20&desc=Full-stack%20Software%20Engineer.&descAlignY=51&descAlign=62) <br>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:00ACAC,100:000&height=190&section=header&text=Anderson%20Carvalho&stroke=212121&fontSize=50&fontColor=0C1014&animation=fadeIn&fontAlignY=20&desc=Full-stack%20Software%20Engineer.&descAlignY=51&descAlign=62) <br>
 **Hi there <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1fae1/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1fae1/512.gif" alt="🫡" width="30" height="30"> Welcome to my Github profile!**
  - 🌐 I'm Anderson, a Fullstack developer from Pelotas <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/2560px-Flag_of_Brazil.svg.png" width="20" height="15" alt="Brazil Flag">, where I currently live.
  - 🔭 I'm currently working at [@cess](https://www.cess.ind.br).
