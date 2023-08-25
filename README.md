@@ -56,7 +56,7 @@
 <img src="https://img.shields.io/badge/Notepad++-141321?&logo=notepad%2B%2B&logoColor=90E59A">
 <img src="https://img.shields.io/badge/Miro-141321?&logo=Miro&logoColor=388CE8">
 
-<img src="https://img.shields.io/badge/DATABASE-DC143C?=for-the-badge&logo=ghost&logoColor=white">
+<img src="https://img.shields.io/badge/DATABASE-DC143C?=for-the-badge&logo=&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-141321?&logo=mysql&">
 <img src="https://img.shields.io/badge/postgres-141321?&logo=postgresql&">
 <img src="https://img.shields.io/badge/MongoDB-141321?&logo=mongodb&">
