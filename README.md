@@ -39,8 +39,8 @@
 <img src="https://img.shields.io/badge/ChartJs-141321?&logo=chart.js&logoColor=F5788D">
 
 <img src="https://img.shields.io/badge/BACKEND-417E87?=for-the-badge&logo=&logoColor=white">
-<img src="https://img.shields.io/badge/django-141321?&logo=django&logoColor=082D1F">
-<img src="https://img.shields.io/badge/Django-REST-141321?&logo=django&logoColor=white&color=141321&labelColor=141321">
+<img src="https://img.shields.io/badge/django-141321?&logo=django&logoColor=092E20">
+<img src="https://img.shields.io/badge/Django-REST-141321?&logo=django&logoColor=8C4041&color=141321&labelColor=141321">
 <img src="https://img.shields.io/badge/Django_ORM-141321?&logo=django&logoColor=white">
 <img src="https://img.shields.io/badge/-Node.js-141321?logo=nodedotjs&">
 <img src="https://img.shields.io/badge/NestJS-141321?&logo=NestJS&logoColor=E0234D">
