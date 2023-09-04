@@ -25,16 +25,18 @@
 
 <img src="https://img.shields.io/badge/FRONTEND-417E87?=for-the-badge&logo=&logoColor=white">
 <img src="https://img.shields.io/badge/React-141321?&logo=react&logoColor=%2361DAFB">
+<img src="https://img.shields.io/badge/styledcomponents-141321?&logo=styled-components">
 <img src="https://img.shields.io/badge/Tailwind_CSS-141321?&logo=tailwind-css">
 <img src="https://img.shields.io/badge/Next.js-141321?&logo=next.js">
 <img src="https://img.shields.io/badge/CSS-141321?&logo=css3&logoColor=214CE4">
 <img src="https://img.shields.io/badge/HTML-141321?&logo=html5">
+<img src="https://img.shields.io/badge/Framer-141321?&logo=Framer&logoColor=0055FF">
+<img src="https://img.shields.io/badge/GreenSock-141321?&logo=GreenSock&logoColor=88CE02">
+<img src="https://img.shields.io/badge/Three.js-141321?&logo=threedotjs">
 <img src="https://img.shields.io/badge/jQuery-141321?&logo=jQuery&logoColor=0769AD">
 <img src="https://img.shields.io/badge/bootstrap-141321?&logo=bootstrap&">
 <img src="https://img.shields.io/badge/React_native-141321?&logo=react&logoColor=%2361DAFB">
 <img src="https://img.shields.io/badge/ChartJs-141321?&logo=chart.js&logoColor=F5788D">
-<img src="https://img.shields.io/badge/GreenSock-141321?&logo=GreenSock&logoColor=88CE02">
-<img src="https://img.shields.io/badge/Three.js-141321?&logo=threedotjs">
 
 <img src="https://img.shields.io/badge/BACKEND-417E87?=for-the-badge&logo=&logoColor=white">
 <img src="https://img.shields.io/badge/django-141321?&logo=django&logoColor=082D1F">
