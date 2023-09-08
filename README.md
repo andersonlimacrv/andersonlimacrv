@@ -9,10 +9,10 @@
 - 🚀 Feel free to explore my website and get a glimpse of the digital creations I've brought to life ➡️ [allcode.app](https://www.allcode.app).
 
 <div id ="status" align="left">
-<img width="66.6%" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andersonlimacrv&theme=transparent&hide_border=true&color=fff">
-<img width="32.7%" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=andersonlimacrv&theme=transparent&hide_border=true">
-<img width="74.6%" align=center src="https://github-readme-activity-graph.vercel.app/graph?username=andersonlimacrv&bg_color=transparent&color=417E87&line=006AFF&point=006Aee&area=true&area_color=006AFF&hide_border=true">
-<img width="24.5%" align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonlimacrv&theme=transparent&hide_border=true&langs_count=12&title_color=417E87">
+<img width="65%" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andersonlimacrv&theme=transparent&hide_border=true&color=fff&count_private=true">
+<img width="32%" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=andersonlimacrv&theme=transparent&hide_border=true&count_private=true">
+<img width="70%" align=center src="https://github-readme-activity-graph.vercel.app/graph?username=andersonlimacrv&bg_color=transparent&color=417E87&line=006AFF&point=006Aee&area=true&area_color=006AFF&hide_border=true&count_private=true">
+<img width="24%" align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonlimacrv&theme=transparent&hide_border=true&langs_count=12&title_color=417E87&hide=html,css&size_weight=0.5&count_weight=0.5&count_private=true">
 </div>
 <br>
 <div align=center>
