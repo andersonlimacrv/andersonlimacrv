@@ -45,6 +45,7 @@
 <img src="https://img.shields.io/badge/-Node.js-141321?logo=nodedotjs&">
 <img src="https://img.shields.io/badge/NestJS-141321?&logo=NestJS&logoColor=E0234D">
 <img src ="https://img.shields.io/badge/Express.js-141321?&logo=Express">
+<img src= "https://img.shields.io/badge/FastAPI-141321?&logo=FastAPI&logoColor=009688">
 <img src="https://img.shields.io/badge/Prisma-141321?&logo=Prisma&logoColor=3982CE">
 <img src="https://img.shields.io/badge/-GraphQL-141321?&logo=graphql&logoColor=E10098">
 <img src="https://img.shields.io/badge/Heroku-141321?&logo=heroku&logoColor=430098">
