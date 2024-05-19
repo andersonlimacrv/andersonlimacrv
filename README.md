@@ -1,25 +1,25 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:141321,100:070611&height=190&section=header&text=Anderson%20Carvalho&stroke=00ACAC&fontSize=50&fontColor=417E87&animation=fadeIn&fontAlignY=20&desc=Full-stack%20Software%20Engineer.&descAlignY=51&descAlign=62) <br>
-**Hi there <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1fae1/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1fae1/512.gif" alt="🫡" width="30" height="30"> Welcome to my Github profile!**
 
-&#10149; 🌐 I'm Anderson, a developer from Pelotas <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/2560px-Flag_of_Brazil.svg.png" width="20" height="15" alt="Brazil Flag">.<br/>
-&#10149; 🔭 I'm currently working as a fullstack software engineer at [@cess](https://www.cess.ind.br).<br/>
-&#10149; 📖 Learning more about **everything that I can**.<br/>
-&#10149; ❤️ Dedicated to optimizing the blend of high-performance architecture and immersive and creative UI/UX.<br/>
-&#10149; ⚡ Besides programming, I enjoy tinkering with electronics, IoT stuff, and software development in general.<br/>
-&#10149; 🐍 Experienced in `Python` with `FastAPI` and `Django`, and proficient in `JavaScript/TypeScript` with `React`. <br/>
-&#10149; 🧩 Currently learning more about **Functional Programming** with `Elixir` and `Phoenix Framework`.<br/>
-&#10149; 🚀 Feel free to explore my website and get a glimpse of the digital creations I've brought to life ➡️ [allcode.app](https://www.allcode.app).<br/>
+
+
+ 🌐 I'm Anderson, a developer from Pelotas <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/2560px-Flag_of_Brazil.svg.png" width="20" height="15" alt="Brazil Flag">, currently working as a full-stack software engineer at  [@cess](https://www.cess.ind.br).<br/>
+ 📖 Learning more about **everything that I can**.<br/>
+ ❤️ Dedicated to optimizing the blend of `high-performance` architecture and immersive and `creative UI/UX`.<br/>
+ ⚡ Besides programming, I enjoy tinkering with electronics, IoT stuff, and software development in general.<br/>
+ 🐍 Experienced in `Python` with `FastAPI` and `Django`, `C++`  and proficient in `JavaScript/TypeScript` with `React`. <br/>
+ 🚀 Feel free to explore my website and check out the digital creations I've brought to life ➡️ [allcode.app](https://www.allcode.app).<br/>
 
   
 [elixir-badge]: https://img.shields.io/badge/Elixir-141321?&logo=Elixir&logoColor=4B275F
 [phoenix-badge]: https://img.shields.io/badge/Phoenix%20Framework-141321.svg?&logo=Phoenix-Framework&logoColor=FD4F00
 
-<div id ="status" align="left">
-<img width="65%" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andersonlimacrv&theme=transparent&hide_border=true&color=fff&count_private=true">
-<img width="32%" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=andersonlimacrv&theme=transparent&hide_border=true&count_private=true">
-<img width="70%" align=center src="https://github-readme-activity-graph.vercel.app/graph?username=andersonlimacrv&bg_color=transparent&color=417E87&line=006AFF&point=006Aee&area=true&area_color=006AFF&hide_border=true&count_private=true">
-<img width="24%" align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonlimacrv&theme=transparent&hide_border=true&langs_count=12&title_color=417E87&hide=html,css&size_weight=0.5&count_weight=0.5&count_private=true">
+<div id="status" align="center">
+    <img style="width: 76%;" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andersonlimacrv&theme=nord_dark&hide_border=true&color=fff&count_private=true&radius=8">
+<!--     <img style="padding: 1px; width: 31.5%;" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=andersonlimacrv&theme=nord_dark&hide_border=true&count_private=true"> -->
+    <img style="width: 23%;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonlimacrv&theme=nord&color=fff&hide_border=false&langs_count=12&title_color=FFF&hide=html,css&size_weight=0.5&count_weight=0.5&count_private=true&radius=8">
+    <img style=" width: 99%;" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=andersonlimacrv&theme=nord&bg_color=30343f&color=ffffff&line=9abfce&point=9abfce&area=true&hide_border=false&radius=8&count_private=true">
 </div>
+
+
 <br>
 <div align=center>
 <img src="https://img.shields.io/badge/LANGUAGES-417E87?=for-the-badge&logo=&logoColor=white">
