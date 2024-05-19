@@ -21,15 +21,17 @@
 <img src="https://img.shields.io/badge/python-141321?&logo=python&logoColor=ffdd54">
 <img src="https://img.shields.io/badge/javascript-141321?&logo=javascript&logoColor=%23F7DF1E">
 <img src="https://img.shields.io/badge/TypeScript-141321?&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/c++-141321?&logo=c%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/C++-141321?&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/Elixir-141321?&logo=Elixir&logoColor=4B275F">
 <!-- <img src="https://img.shields.io/badge/Java-141321?&logo=openjdk&logoColor=324E61"> -->
 <img src="https://img.shields.io/badge/FRONTEND-417E87?=for-the-badge&logo=&logoColor=white">
 <img src="https://img.shields.io/badge/React-141321?&logo=react&logoColor=%2361DAFB">
-<img src="https://img.shields.io/badge/Phoenix%20Framework-141321.svg?&logo=Phoenix-Framework&logoColor=FD4F00">
-<img src="https://img.shields.io/badge/styledcomponents-141321?&logo=styled-components">
 <img src="https://img.shields.io/badge/Tailwind_CSS-141321?&logo=tailwind-css">
 <img src="https://img.shields.io/badge/Next.js-141321?&logo=next.js">
+<img src="https://img.shields.io/badge/Vite-141321?&logo=Vite">
+<img src="https://img.shields.io/badge/shadcn/ui-141321?&logo=shadcn/ui">
+<img src="https://img.shields.io/badge/Phoenix%20Framework-141321.svg?&logo=Phoenix-Framework&logoColor=FD4F00">
+<img src="https://img.shields.io/badge/styledcomponents-141321?&logo=styled-components">
 <img src="https://img.shields.io/badge/CSS-141321?&logo=css3&logoColor=214CE4">
 <img src="https://img.shields.io/badge/HTML-141321?&logo=html5">
 <img src="https://img.shields.io/badge/Framer-141321?&logo=Framer&logoColor=0055FF">
@@ -41,6 +43,7 @@
 <img src="https://img.shields.io/badge/ChartJs-141321?&logo=chart.js&logoColor=F5788D">
 <img src="https://img.shields.io/badge/BACKEND-417E87?=for-the-badge&logo=&logoColor=white">
 <img src="https://img.shields.io/badge/FastAPI-141321?&logo=FastAPI&logoColor=009688">
+<img src="https://img.shields.io/badge/SQLAlchemy-141321?&logo=SQLAlchemy">
 <img src="https://img.shields.io/badge/django-141321?&logo=django&logoColor=092E20">
 <img src="https://img.shields.io/badge/Django-REST-141321?&logo=django&logoColor=8C4041&color=141321&labelColor=141321">
 <img src="https://img.shields.io/badge/Django_ORM-141321?&logo=django&logoColor=white">
@@ -59,10 +62,11 @@
 <img src="https://img.shields.io/badge/Notepad++-141321?&logo=notepad%2B%2B&logoColor=90E59A">
 <img src="https://img.shields.io/badge/Miro-141321?&logo=Miro&logoColor=388CE8">
 <img src="https://img.shields.io/badge/DATABASE-417E87?=for-the-badge&logo=&logoColor=white">
-<img src="https://img.shields.io/badge/mysql-141321?&logo=mysql&">
 <img src="https://img.shields.io/badge/postgres-141321?&logo=postgresql&">
+<img src="https://img.shields.io/badge/mysql-141321?&logo=mysql&">
 <img src="https://img.shields.io/badge/MongoDB-141321?&logo=mongodb&">
 <img src="https://img.shields.io/badge/SQLite-141321?&logo=sqlite&logoColor=07405E">
+<img src="https://img.shields.io/badge/Redis-141321?&logo=Redis">
 <img src="https://img.shields.io/badge/IoT-417E87?=for-the-badge&logo=&logoColor=white">
 <img src="https://img.shields.io/badge/-Arduino-141321?&logo=Arduino&logoColor=00979D">
 <img src="https://img.shields.io/badge/MQTT-141321?&logo=MQTT&logoColor=660066">
