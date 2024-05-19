@@ -10,7 +10,7 @@
 <div id="status" align="left">
     <img style="width: 70%;" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andersonlimacrv&theme=nord_dark&hide_border=true&color=fff&count_private=true&radius=8">
 <!--     <img style="padding: 1px; width: 31.5%;" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=andersonlimacrv&theme=nord_dark&hide_border=true&count_private=true"> -->
-    <img style="width: 21%;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonlimacrv&theme=nord&color=fff&hide_border=false&langs_count=12&title_color=FFF&hide=html,css&size_weight=0.5&count_weight=1&count_private=true&radius=8">
+    <img style="width: 21%;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonlimacrv&theme=nord&color=fff&hide_border=false&langs_count=8&title_color=FFF&hide=html,css&size_weight=1&count_weight=1">
    <!--  <img style="width: 88%;" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=andersonlimacrv&theme=nord&bg_color=30343f&color=ffffff&line=9abfce&point=9abfce&area=true&hide_border=false&radius=8&count_private=true"> -->
 </div>
 
@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/javascript-141321?&logo=javascript&logoColor=%23F7DF1E">
 <img src="https://img.shields.io/badge/TypeScript-141321?&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/c++-141321?&logo=c%2B%2B&logoColor=white">
-<img src="https://img.shields.io/badge/Elixir-141321?&logo=Elixir&logoColor=4B275F"> <br>
+<img src="https://img.shields.io/badge/Elixir-141321?&logo=Elixir&logoColor=4B275F">
 <!-- <img src="https://img.shields.io/badge/Java-141321?&logo=openjdk&logoColor=324E61"> -->
 <img src="https://img.shields.io/badge/FRONTEND-417E87?=for-the-badge&logo=&logoColor=white">
 <img src="https://img.shields.io/badge/React-141321?&logo=react&logoColor=%2361DAFB">
@@ -38,7 +38,7 @@
 <img src="https://img.shields.io/badge/jQuery-141321?&logo=jQuery&logoColor=0769AD">
 <img src="https://img.shields.io/badge/bootstrap-141321?&logo=bootstrap&">
 <img src="https://img.shields.io/badge/React_native-141321?&logo=react&logoColor=%2361DAFB">
-<img src="https://img.shields.io/badge/ChartJs-141321?&logo=chart.js&logoColor=F5788D"><br>
+<img src="https://img.shields.io/badge/ChartJs-141321?&logo=chart.js&logoColor=F5788D">
 <img src="https://img.shields.io/badge/BACKEND-417E87?=for-the-badge&logo=&logoColor=white">
 <img src="https://img.shields.io/badge/FastAPI-141321?&logo=FastAPI&logoColor=009688">
 <img src="https://img.shields.io/badge/django-141321?&logo=django&logoColor=092E20">
@@ -57,7 +57,7 @@
 <img src="https://img.shields.io/badge/Codepen-141321?&logo=codepen&logoColor=white">
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-141321?&logo=visual-studio-code&logoColor=0078d7">
 <img src="https://img.shields.io/badge/Notepad++-141321?&logo=notepad%2B%2B&logoColor=90E59A">
-<img src="https://img.shields.io/badge/Miro-141321?&logo=Miro&logoColor=388CE8"><br>
+<img src="https://img.shields.io/badge/Miro-141321?&logo=Miro&logoColor=388CE8">
 <img src="https://img.shields.io/badge/DATABASE-417E87?=for-the-badge&logo=&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-141321?&logo=mysql&">
 <img src="https://img.shields.io/badge/postgres-141321?&logo=postgresql&">
