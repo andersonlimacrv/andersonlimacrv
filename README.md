@@ -88,6 +88,7 @@
 
 <!-- VARIABLES MARKDOWN -->
 
+
 <!-- MARKDOWN SOCIAL MEDIA-->
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white&style=plastic
 [linkedin-url]: https://linkedin.com/in/andersonlimacrv
