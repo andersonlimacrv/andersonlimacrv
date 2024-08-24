@@ -1,4 +1,4 @@
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=48&pause=500&color=30343f&vCenter=true&width=600&height=70&lines=Hello,+Anderson+Carvalho+here.;Welcome+to+my+github+profile.;Join+my+code!)]([https://github.com/Charmve](https://github.com/UFund-Me/QBot)) <br/>
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=48&pause=500&color=30343f&vCenter=true&width=600&height=70&lines=Hello,+Anderson+Carvalho+here.;Welcome+to+my+github+profile.;Join+my+code!!)]([https://github.com/Charmve](https://github.com/UFund-Me/QBot)) <br/>
  🌐 Developer from Pelotas <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/2560px-Flag_of_Brazil.svg.png" width="20" height="15" alt="Brazil Flag">, currently working as a fullstack software engineer at  [@cess](https://www.cess.ind.br).<br/>
  📖 Learning more about **everything that I can**.<br/>
  ❤️ Dedicated to optimizing the blend of `high-performance` architecture and immersive and `creative UI/UX`.<br/>
