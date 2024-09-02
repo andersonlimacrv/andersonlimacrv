@@ -10,7 +10,7 @@
 <div id="status" align="left">
     <img style="width: 75%;" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andersonlimacrv&theme=nord_dark&hide_border=true&color=fff&count_private=true&radius=8">
 <!--     <img style="padding: 1px; width: 31.5%;" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=andersonlimacrv&theme=nord_dark&hide_border=true&count_private=true"> -->
-    <img style="width: 20%;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonlimacrv&theme=nord&color=fff&hide_border=false&langs_count=8&title_color=FFF&hide=html,css&size_weight=1&count_weight=1">
+    <img style="width: 15%;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonlimacrv&theme=nord&color=fff&hide_border=false&langs_count=8&title_color=FFF&hide=html,css&size_weight=1&count_weight=1">
    <!--  <img style="width: 88%;" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=andersonlimacrv&theme=nord&bg_color=30343f&color=ffffff&line=9abfce&point=9abfce&area=true&hide_border=false&radius=8&count_private=true"> -->
 </div>
 
