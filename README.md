@@ -9,7 +9,7 @@
 [![wakatime](https://wakatime.com/badge/user/776ed6a2-7f93-4624-9c38-47fc52b2c2a7.svg)](https://wakatime.com/@776ed6a2-7f93-4624-9c38-47fc52b2c2a7)
 <div id="status" align="left">
     <img style="width: 100%;" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andersonlimacrv&theme=nord_dark&hide_border=true&color=fff&count_private=true&radius=1">
-  <img style="width: 100%;" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@andersonlimacrv&compact=True&theme=nord"/>
+ <!--  <img style="width: 100%;" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@andersonlimacrv&compact=True&theme=nord"/> -->
 <!--     <img style="padding: 1px; width: 31.5%;" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=andersonlimacrv&theme=nord_dark&hide_border=true&count_private=true"> -->
    <!--  <img style="width: 18%;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonlimacrv&theme=nord&color=fff&hide_border=false&langs_count=8&title_color=FFF&radius=8&hide=html,css,mako&size_weight=1&count_weight=1"> -->
    <!--  <img style="width: 88%;" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=andersonlimacrv&theme=nord&bg_color=30343f&color=ffffff&line=9abfce&point=9abfce&area=true&hide_border=false&radius=8&count_private=true"> -->
